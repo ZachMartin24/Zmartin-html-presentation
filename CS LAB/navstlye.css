@@ -1,0 +1,53 @@
+
+  
+  .navbar > div > a {
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .navbar > div {
+    height: 30px;
+    line-height: 30px;
+   
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blue;
+    flex: 1 1 auto;
+    border: 1px blue solid;
+    border-radius: 10px;
+    text-align: center;
+   
+    margin: 5px; /* and that, will result in a 10px gap */
+  }
+  
+  .navbar > div:hover {
+    background-color: white;
+  }
+  .navbar {
+    display:flex;
+    grid-column: 4;
+    
+  }
+   
+  .navbar > div {
+    border: 1px black;
+  }
+  
+  .navbar {
+    
+    width: 200px;
+    height: 50px;
+    padding: 0;
+    margin: auto;
+   
+    justify-content: center;
+    align-items: center;
+   
+
+  }
+
+   
+
+  

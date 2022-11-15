@@ -1,0 +1,40 @@
+.leftside_images {
+    float: left;
+    width: 160px;
+    margin-right: 100px;
+    border: 1px black solid;
+  }
+   
+.rightside_images {
+    float: right;
+    width: 160px;
+    margin-left: 10px;
+    border: 1px black solid;
+  }
+  .middleside_images {
+    float: middle;
+    width: 160px;
+    margin-left: 10px;
+    border: 1px black solid;
+  }
+  
+.leftside_images2 {
+    float: left;
+    width: 400px;
+    margin-right: 100px;
+    border: 1px black solid;
+  }
+   
+.rightside_images2 {
+    float: right;
+    width: 400px;
+    margin-left: 100px;
+    border: 1px black solid;
+  }
+  .middleside_images2 {
+    float: middle;
+    width: 400px;
+    margin-left: 100px;
+    border: 1px black solid;
+  }
+  
